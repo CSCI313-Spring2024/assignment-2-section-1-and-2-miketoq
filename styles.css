@@ -1,0 +1,30 @@
+body {
+    font-family: "Bitter", serif;
+    font-optical-sizing: auto;
+    font-size: 50px;
+}
+
+h1 {
+    font-family: "Bitter", serif;
+        font-optical-sizing: auto;
+}
+
+.h3
+{
+    font-family: "Bitter", serif;
+        font-optical-sizing: auto;
+        color: slategray;
+}
+
+p
+{
+    margin-bottom: 1em;
+    font-family: "Bitter", serif;
+        font-optical-sizing: auto;
+        font-size: 18px;
+}
+
+#address
+{
+    color: slategray;
+}
